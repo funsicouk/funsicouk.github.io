@@ -1,0 +1,7 @@
+.intl-tel-input {color: black;
+    margin: 0 auto 20px;
+    width: 370px;
+    height: 72px;
+    display: block;} 
+.intl-tel-input .country-list {position: absolute;}
+.input-phone {text-align: left;}
